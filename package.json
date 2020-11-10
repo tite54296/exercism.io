@@ -1,0 +1,19 @@
+{
+  "name": "exercism.io",
+  "version": "1.0.0",
+  "description": "5 hard exercises from exercism.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal.github.com:tite54296/exercism.io.git"
+  },
+  "keywords": [
+    "lattice",
+    "goals"
+  ],
+  "author": "Katherine Gomez",
+  "license": "ISC"
+}
